@@ -154,11 +154,11 @@ Additional external variables were incorporated, including:
 ---
 ## Forecast Results
 
-![Forecast](images/forecast_results.png)
+![Forecast](AeroIndia/images/forecast_results.png.png)
 
 ## Seasonal Demand Analysis
 
-![Seasonality](images/seasonality_analysis.png)
+![Seasonality](AeroIndia/images/seasonality_analysis.png.png)
 
 ## Business Impact
 
