@@ -162,7 +162,7 @@ Additional external variables were incorporated, including:
 
 ## Business Impact
 
-![Impact](images/business_impact.png)
+![Impact](AeroIndia/images/business_impact.png.png)
 
 ## 📌 Future Enhancements
 
